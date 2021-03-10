@@ -4,6 +4,7 @@
 <div align="right">
 <img src="figures/lab1.flutter/flutter.png" width=200px>
 </div>
+
 ### 概要介绍
 Flutter是由Google公司开发的开源跨平台框架，在近期的2.0发布版本中，Flutter移除了仅支持移动设备跨平台的限制，其拓展了对Web和桌面的支持。世界上众多的软件已经采用了Flutter框架进行开发，其中包括了WeChat和Google的众多产品。Flutter采用由Google开发的Dart语言进行开发。Dart语言是免费开源语言，其具有高可移植性，源代码可以被变编译为高性能的Intel和ARM机器代码，也可以生成优化的JavaScript代码。Flutter支持开发Android、iOS、Linux和Web应用。除此之外，Flutter拥有相对完善的官方文档，对于开发人员相对友好。在跨平台开发方面性能良好，平台支持相对丰富，拥有不错的发展前景。
 其架构图如下：
